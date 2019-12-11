@@ -1,0 +1,2330 @@
+[
+    {
+        "municipality": "Turku",
+        "population": 183824,
+        "DL avg": 25534.45147489304,
+        "DL var": 694305634.5376701,
+        "UL avg": 10260.479683972912,
+        "UL var": 176855976.62881976
+    },
+    {
+        "municipality": "Mäntsälä",
+        "population": 20621,
+        "DL avg": 27589.154676258993,
+        "DL var": 1058582315.5480175,
+        "UL avg": 11408.334532374101,
+        "UL var": 180711368.54636145
+    },
+    {
+        "municipality": "Raisio",
+        "population": 24371,
+        "DL avg": 41213.73529411765,
+        "DL var": 2812466185.358036,
+        "UL avg": 10105.532679738562,
+        "UL var": 91437760.90252681
+    },
+    {
+        "municipality": "Kerava",
+        "population": 35317,
+        "DL avg": 33765.90548204159,
+        "DL var": 1560261775.068571,
+        "UL avg": 9937.081285444234,
+        "UL var": 132440660.86106755
+    },
+    {
+        "municipality": "Tampere",
+        "population": 223004,
+        "DL avg": 27135.547282715324,
+        "DL var": 960451796.7666969,
+        "UL avg": 11922.578274131654,
+        "UL var": 459637305.9961117
+    },
+    {
+        "municipality": "Helsinki",
+        "population": 620715,
+        "DL avg": 30196.191798424494,
+        "DL var": 1419630383.205238,
+        "UL avg": 13623.289095283388,
+        "UL var": 761054087.4160603
+    },
+    {
+        "municipality": "Marttila",
+        "population": 2070,
+        "DL avg": 42608.45,
+        "DL var": 1668422406.4275002,
+        "UL avg": 15144.14,
+        "UL var": 202491304.08040002
+    },
+    {
+        "municipality": "Luopioinen",
+        "population": 0,
+        "DL avg": 15870.0,
+        "DL var": 176063684.44444445,
+        "UL avg": 9833.777777777777,
+        "UL var": 73483712.39506173
+    },
+    {
+        "municipality": "Seinäjoki",
+        "population": 60880,
+        "DL avg": 40029.5960591133,
+        "DL var": 2650766154.8195906,
+        "UL avg": 14370.444444444445,
+        "UL var": 2183911464.037037
+    },
+    {
+        "municipality": "Jyväskylä",
+        "population": 135780,
+        "DL avg": 33178.41495992876,
+        "DL var": 1580394576.7343087,
+        "UL avg": 11952.117647058823,
+        "UL var": 1138709811.1537173
+    },
+    {
+        "municipality": "Kaarina",
+        "population": 32148,
+        "DL avg": 25828.612456747403,
+        "DL var": 629554454.4069036,
+        "UL avg": 8956.008665511265,
+        "UL var": 84180886.59437898
+    },
+    {
+        "municipality": "Kauniainen",
+        "population": 9357,
+        "DL avg": 33146.23551401869,
+        "DL var": 1016494773.3052808,
+        "UL avg": 12264.53644859813,
+        "UL var": 279015470.61876494
+    },
+    {
+        "municipality": "Valkeakoski",
+        "population": 21162,
+        "DL avg": 35597.89349112426,
+        "DL var": 1700592084.4975312,
+        "UL avg": 17187.49704142012,
+        "UL var": 627119979.0547249
+    },
+    {
+        "municipality": "Lahti",
+        "population": 103754,
+        "DL avg": 30866.24298100743,
+        "DL var": 2457398710.9865837,
+        "UL avg": 10454.774813895781,
+        "UL var": 411742264.83576757
+    },
+    {
+        "municipality": "Sipoo",
+        "population": 19034,
+        "DL avg": 24188.5,
+        "DL var": 914194945.15,
+        "UL avg": 6895.62,
+        "UL var": 118221317.2756
+    },
+    {
+        "municipality": "Kouvola",
+        "population": 86453,
+        "DL avg": 24956.50187617261,
+        "DL var": 651914475.2199779,
+        "UL avg": 11080.682972718721,
+        "UL var": 180608525.33787563
+    },
+    {
+        "municipality": "Espoo",
+        "population": 265543,
+        "DL avg": 28587.432210353327,
+        "DL var": 1449125220.3982396,
+        "UL avg": 13241.12338908692,
+        "UL var": 1692781262.256231
+    },
+    {
+        "municipality": "Raahe",
+        "population": 25383,
+        "DL avg": 43244.43243243243,
+        "DL var": 6999961288.461652,
+        "UL avg": 13309.337837837838,
+        "UL var": 2488436042.3588386
+    },
+    {
+        "municipality": "Tuulos",
+        "population": 0,
+        "DL avg": 22265.37837837838,
+        "DL var": 392323373.9108839,
+        "UL avg": 7726.378378378378,
+        "UL var": 57076486.69466763
+    },
+    {
+        "municipality": "Kotka",
+        "population": 54518,
+        "DL avg": 35389.66075949367,
+        "DL var": 1112843350.269726,
+        "UL avg": 8314.81725888325,
+        "UL var": 67785696.16965137
+    },
+    {
+        "municipality": "Joensuu",
+        "population": 75041,
+        "DL avg": 32617.359712230216,
+        "DL var": 3603593479.0216856,
+        "UL avg": 13902.220623501198,
+        "UL var": 3062657871.884178
+    },
+    {
+        "municipality": "Lappeenranta",
+        "population": 72794,
+        "DL avg": 29623.980036297642,
+        "DL var": 940714457.8562258,
+        "UL avg": 11909.375680580762,
+        "UL var": 1637467755.196432
+    },
+    {
+        "municipality": "Kärkölä",
+        "population": 4647,
+        "DL avg": 31199.876470588235,
+        "DL var": 799175116.7082698,
+        "UL avg": 11634.011764705883,
+        "UL var": 142888930.75280276
+    },
+    {
+        "municipality": "Vantaa",
+        "population": 210803,
+        "DL avg": 30539.966322107368,
+        "DL var": 790419965.2236074,
+        "UL avg": 12150.234056761268,
+        "UL var": 244120610.30147788
+    },
+    {
+        "municipality": "Mikkeli",
+        "population": 54605,
+        "DL avg": 33847.98441558442,
+        "DL var": 1974683664.3841724,
+        "UL avg": 14632.8,
+        "UL var": 911606095.3340259
+    },
+    {
+        "municipality": "Askainen",
+        "population": 0,
+        "DL avg": 36149.75,
+        "DL var": 890437827.7152778,
+        "UL avg": 21917.86111111111,
+        "UL var": 771916256.8418211
+    },
+    {
+        "municipality": "Vampula",
+        "population": 0,
+        "DL avg": 33525.0,
+        "DL var": 805152476.0,
+        "UL avg": 7689.076923076923,
+        "UL var": 21899628.22485207
+    },
+    {
+        "municipality": "Rusko",
+        "population": 6045,
+        "DL avg": 42923.86826347305,
+        "DL var": 4902425123.539532,
+        "UL avg": 17427.952095808385,
+        "UL var": 597041994.1174656
+    },
+    {
+        "municipality": "Vaasa",
+        "population": 66965,
+        "DL avg": 41680.549333333336,
+        "DL var": 1913330859.778233,
+        "UL avg": 11942.570666666667,
+        "UL var": 639508269.4876728
+    },
+    {
+        "municipality": "Orimattila",
+        "population": 16288,
+        "DL avg": 21792.36746987952,
+        "DL var": 349564365.24448395,
+        "UL avg": 10817.102409638554,
+        "UL var": 94818853.92324722
+    },
+    {
+        "municipality": "Vimpeli",
+        "population": 3106,
+        "DL avg": 42288.842767295595,
+        "DL var": 1059458950.4972905,
+        "UL avg": 7714.276729559749,
+        "UL var": 17199544.31335786
+    },
+    {
+        "municipality": "Ilomantsi",
+        "population": 5504,
+        "DL avg": 61505.818181818184,
+        "DL var": 776378954.3305784,
+        "UL avg": 83589.72727272728,
+        "UL var": 1145882594.198347
+    },
+    {
+        "municipality": "Pukkila",
+        "population": 2013,
+        "DL avg": 32068.444444444445,
+        "DL var": 157403448.02469137,
+        "UL avg": 4963.0,
+        "UL var": 14902091.333333334
+    },
+    {
+        "municipality": "Kiiminki",
+        "population": 0,
+        "DL avg": 59302.354838709674,
+        "DL var": 1728546171.841832,
+        "UL avg": 10639.806451612903,
+        "UL var": 508946460.47866803
+    },
+    {
+        "municipality": "Järvenpää",
+        "population": 40390,
+        "DL avg": 35096.202839756595,
+        "DL var": 1348984710.948714,
+        "UL avg": 8830.790650406505,
+        "UL var": 157086299.40129468
+    },
+    {
+        "municipality": "Huittinen",
+        "population": 10487,
+        "DL avg": 26661.514893617023,
+        "DL var": 680961365.7476505,
+        "UL avg": 9138.582978723403,
+        "UL var": 88547828.47290176
+    },
+    {
+        "municipality": "Loppi",
+        "population": 8291,
+        "DL avg": 24042.553459119496,
+        "DL var": 704368012.4106643,
+        "UL avg": 8053.420382165605,
+        "UL var": 85077607.25003043
+    },
+    {
+        "municipality": "Janakkala",
+        "population": 16840,
+        "DL avg": 22116.34862385321,
+        "DL var": 450502095.38304853,
+        "UL avg": 9200.666666666666,
+        "UL var": 106132706.53703707
+    },
+    {
+        "municipality": "Rovaniemi",
+        "population": 61551,
+        "DL avg": 34456.068181818184,
+        "DL var": 1680098520.088786,
+        "UL avg": 15112.689393939394,
+        "UL var": 530209512.49695826
+    },
+    {
+        "municipality": "Pirkkala",
+        "population": 18689,
+        "DL avg": 30668.658088235294,
+        "DL var": 789672906.6955962,
+        "UL avg": 9338.511029411764,
+        "UL var": 74345669.46311365
+    },
+    {
+        "municipality": "Keuruu",
+        "population": 10177,
+        "DL avg": 78138.75471698113,
+        "DL var": 8160334666.034175,
+        "UL avg": 56648.301886792455,
+        "UL var": 6567823839.003203
+    },
+    {
+        "municipality": "Hamina",
+        "population": 21061,
+        "DL avg": 58531.21428571428,
+        "DL var": 1597508308.8112245,
+        "UL avg": 8965.94642857143,
+        "UL var": 104867518.97927298
+    },
+    {
+        "municipality": "Varkaus",
+        "population": 21860,
+        "DL avg": 23512.62,
+        "DL var": 391130415.67560005,
+        "UL avg": 11497.28,
+        "UL var": 308138277.68160003
+    },
+    {
+        "municipality": "Oulu",
+        "population": 196291,
+        "DL avg": 54491.15913978495,
+        "DL var": 4720107913.518761,
+        "UL avg": 14955.889247311829,
+        "UL var": 672944212.8124651
+    },
+    {
+        "municipality": "Taipalsaari",
+        "population": 4798,
+        "DL avg": 55982.77777777778,
+        "DL var": 688888736.839506,
+        "UL avg": 42452.22222222222,
+        "UL var": 1133397618.3950617
+    },
+    {
+        "municipality": "Ähtäri",
+        "population": 6178,
+        "DL avg": 28637.454545454544,
+        "DL var": 649711993.8842975,
+        "UL avg": 21013.363636363636,
+        "UL var": 756514158.2314051
+    },
+    {
+        "municipality": "Savonlinna",
+        "population": 35944,
+        "DL avg": 63222.117021276594,
+        "DL var": 3801633364.0607743,
+        "UL avg": 53390.436170212764,
+        "UL var": 4752649390.309756
+    },
+    {
+        "municipality": "Tornio",
+        "population": 22322,
+        "DL avg": 28791.386363636364,
+        "DL var": 1076145941.7825413,
+        "UL avg": 21057.590909090908,
+        "UL var": 659138884.605372
+    },
+    {
+        "municipality": "Piikkiö",
+        "population": 0,
+        "DL avg": 21751.60606060606,
+        "DL var": 334997594.2387512,
+        "UL avg": 8946.484848484848,
+        "UL var": 149284977.34067956
+    },
+    {
+        "municipality": "Lammi",
+        "population": 0,
+        "DL avg": 33251.86734693877,
+        "DL var": 4252012681.9517903,
+        "UL avg": 9265.19387755102,
+        "UL var": 57947223.62567681
+    },
+    {
+        "municipality": "Akaa",
+        "population": 17052,
+        "DL avg": 37535.52173913043,
+        "DL var": 2939617014.3654695,
+        "UL avg": 14488.376811594202,
+        "UL var": 880456892.4087377
+    },
+    {
+        "municipality": "Hämeenlinna",
+        "population": 67976,
+        "DL avg": 31728.060185185186,
+        "DL var": 4366515690.751008,
+        "UL avg": 10318.652777777777,
+        "UL var": 136740158.3285108
+    },
+    {
+        "municipality": "Lempäälä",
+        "population": 22233,
+        "DL avg": 23839.488372093023,
+        "DL var": 409048810.18009734,
+        "UL avg": 7221.616279069767,
+        "UL var": 46553552.37601406
+    },
+    {
+        "municipality": "Pori",
+        "population": 83515,
+        "DL avg": 33559.951776649745,
+        "DL var": 1808713575.873309,
+        "UL avg": 10329.254452926209,
+        "UL var": 332762674.52558446
+    },
+    {
+        "municipality": "Kempele",
+        "population": 16889,
+        "DL avg": 86538.73509933775,
+        "DL var": 8831416475.797377,
+        "UL avg": 16482.01986754967,
+        "UL var": 406583158.3241087
+    },
+    {
+        "municipality": "Nurmes",
+        "population": 8082,
+        "DL avg": 41306.5,
+        "DL var": 1354987523.4264705,
+        "UL avg": 26338.617647058825,
+        "UL var": 970740662.6479238
+    },
+    {
+        "municipality": "Rautalampi",
+        "population": 3374,
+        "DL avg": 12354.692307692309,
+        "DL var": 262853143.13609472,
+        "UL avg": 19949.23076923077,
+        "UL var": 891492514.0236685
+    },
+    {
+        "municipality": "Rantasalmi",
+        "population": 3815,
+        "DL avg": 184945.88888888888,
+        "DL var": 87984554738.09875,
+        "UL avg": 107695.77777777778,
+        "UL var": 79121255674.61728
+    },
+    {
+        "municipality": "Karkkila",
+        "population": 8977,
+        "DL avg": 24895.616438356163,
+        "DL var": 430701047.6610997,
+        "UL avg": 8338.402777777777,
+        "UL var": 47698383.5322145
+    },
+    {
+        "municipality": "Honkajoki",
+        "population": 1788,
+        "DL avg": 24046.166666666668,
+        "DL var": 444756764.3769841,
+        "UL avg": 29299.904761904763,
+        "UL var": 195197715.94331068
+    },
+    {
+        "municipality": "Tuusula",
+        "population": 38198,
+        "DL avg": 30945.42405063291,
+        "DL var": 856976004.3454976,
+        "UL avg": 12504.225396825397,
+        "UL var": 150588395.94602168
+    },
+    {
+        "municipality": "Lapua",
+        "population": 14733,
+        "DL avg": 37600.378151260506,
+        "DL var": 1914631050.4704473,
+        "UL avg": 8327.53781512605,
+        "UL var": 78593968.7863851
+    },
+    {
+        "municipality": "Ruokolahti",
+        "population": 5404,
+        "DL avg": 30032.166666666668,
+        "DL var": 34836504.47222222,
+        "UL avg": 4877.833333333333,
+        "UL var": 21720546.472222228
+    },
+    {
+        "municipality": "Ylöjärvi",
+        "population": 32260,
+        "DL avg": 32280.376623376622,
+        "DL var": 1518531103.5594535,
+        "UL avg": 9848.155844155845,
+        "UL var": 299549714.4692191
+    },
+    {
+        "municipality": "Riihimäki",
+        "population": 29350,
+        "DL avg": 34038.17857142857,
+        "DL var": 1149785104.4618096,
+        "UL avg": 12775.373949579833,
+        "UL var": 1698991157.318145
+    },
+    {
+        "municipality": "Kokkola",
+        "population": 47278,
+        "DL avg": 45760.89419795222,
+        "DL var": 1762633504.9751542,
+        "UL avg": 14040.699658703072,
+        "UL var": 256647768.22378826
+    },
+    {
+        "municipality": "Kuivaniemi",
+        "population": 0,
+        "DL avg": 32341.53846153846,
+        "DL var": 966888170.7100589,
+        "UL avg": 21278.25641025641,
+        "UL var": 1021640744.2932284
+    },
+    {
+        "municipality": "Kurikka",
+        "population": 14188,
+        "DL avg": 48495.882352941175,
+        "DL var": 1153729466.3391004,
+        "UL avg": 13656.411764705883,
+        "UL var": 168337416.59515575
+    },
+    {
+        "municipality": "Kuopio",
+        "population": 107543,
+        "DL avg": 45635.364791288564,
+        "DL var": 4798884848.456764,
+        "UL avg": 12124.07090909091,
+        "UL var": 430020684.18588096
+    },
+    {
+        "municipality": "Heinola",
+        "population": 19695,
+        "DL avg": 40720.148148148146,
+        "DL var": 2324186581.681756,
+        "UL avg": 47206.444444444445,
+        "UL var": 23541781774.02469
+    },
+    {
+        "municipality": "Kemi",
+        "population": 21929,
+        "DL avg": 34089.94545454546,
+        "DL var": 888717924.3424793,
+        "UL avg": 13345.10909090909,
+        "UL var": 316970942.5335537
+    },
+    {
+        "municipality": "Karjalohja",
+        "population": 0,
+        "DL avg": 11341.0,
+        "DL var": 63490988.666666664,
+        "UL avg": 9125.666666666666,
+        "UL var": 129144037.55555554
+    },
+    {
+        "municipality": "Tohmajärvi",
+        "population": 4794,
+        "DL avg": 17048.0,
+        "DL var": 0.0,
+        "UL avg": 878.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Karjaa",
+        "population": 0,
+        "DL avg": 68644.0,
+        "DL var": 31545519307.473682,
+        "UL avg": 12531.052631578947,
+        "UL var": 191285954.47091413
+    },
+    {
+        "municipality": "Ii",
+        "population": 9666,
+        "DL avg": 43245.35526315789,
+        "DL var": 1274216675.886946,
+        "UL avg": 29218.513157894737,
+        "UL var": 1529429330.8287742
+    },
+    {
+        "municipality": "Salo",
+        "population": 54238,
+        "DL avg": 30072.6,
+        "DL var": 864825295.56,
+        "UL avg": 13519.71,
+        "UL var": 189239473.5659
+    },
+    {
+        "municipality": "Paimio",
+        "population": 10628,
+        "DL avg": 48543.661538461536,
+        "DL var": 3037767165.300828,
+        "UL avg": 15166.4,
+        "UL var": 652087166.3938463
+    },
+    {
+        "municipality": "Lieksa",
+        "population": 12117,
+        "DL avg": 35448.77142857143,
+        "DL var": 1328315765.604898,
+        "UL avg": 26473.542857142857,
+        "UL var": 838452328.4195919
+    },
+    {
+        "municipality": "Nokia",
+        "population": 32847,
+        "DL avg": 35414.23645320197,
+        "DL var": 989934988.8110851,
+        "UL avg": 11205.507389162562,
+        "UL var": 98781057.21546264
+    },
+    {
+        "municipality": "Rauma",
+        "population": 39970,
+        "DL avg": 39529.79245283019,
+        "DL var": 3578618526.1644707,
+        "UL avg": 14956.094339622641,
+        "UL var": 1535188527.7835526
+    },
+    {
+        "municipality": "Hankasalmi",
+        "population": 5307,
+        "DL avg": 26775.85558583106,
+        "DL var": 674395104.9355478,
+        "UL avg": 12103.452316076295,
+        "UL var": 146521779.9534483
+    },
+    {
+        "municipality": "Forssa",
+        "population": 17521,
+        "DL avg": 44221.51515151515,
+        "DL var": 1351710882.4921947,
+        "UL avg": 19206.737373737375,
+        "UL var": 443450358.09264356
+    },
+    {
+        "municipality": "Himanka",
+        "population": 0,
+        "DL avg": 15324.90909090909,
+        "DL var": 59405754.26446281,
+        "UL avg": 1525.909090909091,
+        "UL var": 2056866.446280992
+    },
+    {
+        "municipality": "Pieksämäki",
+        "population": 19051,
+        "DL avg": 25279.543543543543,
+        "DL var": 456210689.61146736,
+        "UL avg": 10247.414414414414,
+        "UL var": 119781289.7381706
+    },
+    {
+        "municipality": "Teuva",
+        "population": 5543,
+        "DL avg": 23438.4,
+        "DL var": 107883663.43999998,
+        "UL avg": 26960.9,
+        "UL var": 207977251.09
+    },
+    {
+        "municipality": "Ylikiiminki",
+        "population": 0,
+        "DL avg": 45427.40845070423,
+        "DL var": 1373176018.3824637,
+        "UL avg": 26159.816901408452,
+        "UL var": 1142969807.079151
+    },
+    {
+        "municipality": "Kirkkonummi",
+        "population": 38220,
+        "DL avg": 23480.285714285714,
+        "DL var": 667823201.5875404,
+        "UL avg": 4364.887218045113,
+        "UL var": 73012395.97976142
+    },
+    {
+        "municipality": "Haapavesi",
+        "population": 7175,
+        "DL avg": 27268.825,
+        "DL var": 1671484613.0443752,
+        "UL avg": 3754.125,
+        "UL var": 38863751.159375
+    },
+    {
+        "municipality": "Kajaani",
+        "population": 37791,
+        "DL avg": 69276.06666666667,
+        "DL var": 7530524494.795557,
+        "UL avg": 19600.566666666666,
+        "UL var": 749230036.9122221
+    },
+    {
+        "municipality": "Tammela",
+        "population": 6395,
+        "DL avg": 30470.8,
+        "DL var": 421995619.76,
+        "UL avg": 13378.2,
+        "UL var": 134927959.02666664
+    },
+    {
+        "municipality": "Kangasniemi",
+        "population": 5693,
+        "DL avg": 19965.381818181817,
+        "DL var": 254896360.38148758,
+        "UL avg": 11606.218181818182,
+        "UL var": 122683399.55239667
+    },
+    {
+        "municipality": "Viiala",
+        "population": 0,
+        "DL avg": 18675.5625,
+        "DL var": 378279027.49609375,
+        "UL avg": 946.875,
+        "UL var": 147441.234375
+    },
+    {
+        "municipality": "Muurame",
+        "population": 9700,
+        "DL avg": 34105.61643835616,
+        "DL var": 1470142813.35973,
+        "UL avg": 8752.27397260274,
+        "UL var": 96495421.51398014
+    },
+    {
+        "municipality": "Kiikala",
+        "population": 0,
+        "DL avg": 22887.13888888889,
+        "DL var": 717607509.9529321,
+        "UL avg": 11693.083333333334,
+        "UL var": 144732894.2986111
+    },
+    {
+        "municipality": "Uusikaupunki",
+        "population": 15567,
+        "DL avg": 36952.78787878788,
+        "DL var": 1017523125.227732,
+        "UL avg": 14862.484848484848,
+        "UL var": 323499129.6740129
+    },
+    {
+        "municipality": "Haukipudas",
+        "population": 0,
+        "DL avg": 34906.02127659575,
+        "DL var": 3210899637.3399725,
+        "UL avg": 12138.191489361701,
+        "UL var": 538998152.2824806
+    },
+    {
+        "municipality": "Eurajoki",
+        "population": 5954,
+        "DL avg": 56557.479166666664,
+        "DL var": 5619151025.416232,
+        "UL avg": 23846.416666666668,
+        "UL var": 4951419502.576389
+    },
+    {
+        "municipality": "Vihti",
+        "population": 28995,
+        "DL avg": 26770.975,
+        "DL var": 434338114.27437496,
+        "UL avg": 9226.2875,
+        "UL var": 93302309.95484374
+    },
+    {
+        "municipality": "Renko",
+        "population": 0,
+        "DL avg": 19887.668367346938,
+        "DL var": 380218909.80838716,
+        "UL avg": 9106.8,
+        "UL var": 73157898.23692308
+    },
+    {
+        "municipality": "Isojoki",
+        "population": 2198,
+        "DL avg": 54911.619047619046,
+        "DL var": 709892894.9024942,
+        "UL avg": 94187.61904761905,
+        "UL var": 12409639318.235826
+    },
+    {
+        "municipality": "Laihia",
+        "population": 8068,
+        "DL avg": 33845.967741935485,
+        "DL var": 2093601283.7086368,
+        "UL avg": 6908.935483870968,
+        "UL var": 98269400.57648283
+    },
+    {
+        "municipality": "Ikaalinen",
+        "population": 7298,
+        "DL avg": 44087.25,
+        "DL var": 1067449475.3125,
+        "UL avg": 5948.730158730159,
+        "UL var": 11229397.530360293
+    },
+    {
+        "municipality": "Lemi",
+        "population": 3116,
+        "DL avg": 52783.15294117647,
+        "DL var": 1073536784.7177852,
+        "UL avg": 52663.69411764706,
+        "UL var": 1040393006.8946711
+    },
+    {
+        "municipality": "Ylivieska",
+        "population": 14976,
+        "DL avg": 22256.43137254902,
+        "DL var": 424668272.2060746,
+        "UL avg": 5934.524752475248,
+        "UL var": 466855225.2394862
+    },
+    {
+        "municipality": "Petäjävesi",
+        "population": 4081,
+        "DL avg": 45991.0,
+        "DL var": 487255314.5,
+        "UL avg": 2337.5,
+        "UL var": 535766.25
+    },
+    {
+        "municipality": "Hattula",
+        "population": 9738,
+        "DL avg": 36840.661016949154,
+        "DL var": 1065052871.918989,
+        "UL avg": 15563.813559322034,
+        "UL var": 359243652.82964665
+    },
+    {
+        "municipality": "Koski Tl",
+        "population": 2438,
+        "DL avg": 54247.694444444445,
+        "DL var": 1431393345.5455248,
+        "UL avg": 23871.777777777777,
+        "UL var": 252752812.2283951
+    },
+    {
+        "municipality": "Siuntio",
+        "population": 6199,
+        "DL avg": 68547.08695652174,
+        "DL var": 2895764212.862004,
+        "UL avg": 9939.521739130434,
+        "UL var": 238712292.2495274
+    },
+    {
+        "municipality": "Sauvo",
+        "population": 2999,
+        "DL avg": 31137.333333333332,
+        "DL var": 920065431.0555557,
+        "UL avg": 18224.25,
+        "UL var": 307109308.0208333
+    },
+    {
+        "municipality": "Iisalmi",
+        "population": 22115,
+        "DL avg": 71872.18421052632,
+        "DL var": 3500670816.2029085,
+        "UL avg": 34941.78947368421,
+        "UL var": 18642163158.587254
+    },
+    {
+        "municipality": "Kemijärvi",
+        "population": 7892,
+        "DL avg": 50438.1,
+        "DL var": 7675243261.49,
+        "UL avg": 12395.6,
+        "UL var": 999939691.64
+    },
+    {
+        "municipality": "Nastola",
+        "population": 14890,
+        "DL avg": 20654.62962962963,
+        "DL var": 515783149.4924553,
+        "UL avg": 9594.351851851852,
+        "UL var": 108591616.19101508
+    },
+    {
+        "municipality": "Ranua",
+        "population": 4093,
+        "DL avg": 208318.125,
+        "DL var": 54774673306.359375,
+        "UL avg": 230610.75,
+        "UL var": 46682660914.4375
+    },
+    {
+        "municipality": "Nurmo",
+        "population": 0,
+        "DL avg": 37292.4025974026,
+        "DL var": 1374577322.734019,
+        "UL avg": 8758.83116883117,
+        "UL var": 62910714.50396357
+    },
+    {
+        "municipality": "Alavus",
+        "population": 12103,
+        "DL avg": 55538.95327102804,
+        "DL var": 2145282964.7548258,
+        "UL avg": 33308.92523364486,
+        "UL var": 1201390182.7794569
+    },
+    {
+        "municipality": "Rantsila",
+        "population": 0,
+        "DL avg": 114431.0,
+        "DL var": 0.0,
+        "UL avg": 97760.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Valkeala",
+        "population": 0,
+        "DL avg": 24412.454545454544,
+        "DL var": 921250970.6115704,
+        "UL avg": 21725.636363636364,
+        "UL var": 1036633867.8677685
+    },
+    {
+        "municipality": "Sievi",
+        "population": 5154,
+        "DL avg": 20846.733333333334,
+        "DL var": 469413158.72888887,
+        "UL avg": 1685.3333333333333,
+        "UL var": 5943322.755555554
+    },
+    {
+        "municipality": "Haapajärvi",
+        "population": 7479,
+        "DL avg": 33580.63076923077,
+        "DL var": 1056814705.8944378,
+        "UL avg": 28876.153846153848,
+        "UL var": 942111976.2224853
+    },
+    {
+        "municipality": "Alajärvi",
+        "population": 10171,
+        "DL avg": 45620.145833333336,
+        "DL var": 938497922.3745661,
+        "UL avg": 11303.9375,
+        "UL var": 75595997.22526042
+    },
+    {
+        "municipality": "Muhos",
+        "population": 8986,
+        "DL avg": 36802.94285714286,
+        "DL var": 1072931979.7110204,
+        "UL avg": 32563.085714285713,
+        "UL var": 566011404.3640817
+    },
+    {
+        "municipality": "Vilppula",
+        "population": 0,
+        "DL avg": 32227.304347826088,
+        "DL var": 1060178772.7334595,
+        "UL avg": 4198.0,
+        "UL var": 14938690.086956521
+    },
+    {
+        "municipality": "Porvoo",
+        "population": 49728,
+        "DL avg": 32239.702479338845,
+        "DL var": 1043076907.4569361,
+        "UL avg": 12001.859504132231,
+        "UL var": 136878448.18687248
+    },
+    {
+        "municipality": "Vesilahti",
+        "population": 4492,
+        "DL avg": 22595.714285714286,
+        "DL var": 456428373.25170064,
+        "UL avg": 4354.476190476191,
+        "UL var": 15912424.15419501
+    },
+    {
+        "municipality": "Jaala",
+        "population": 0,
+        "DL avg": 78376.0,
+        "DL var": 0.0,
+        "UL avg": 82598.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Hirvensalmi",
+        "population": 2326,
+        "DL avg": 64953.25,
+        "DL var": 748848230.1875,
+        "UL avg": 34149.75,
+        "UL var": 359025984.6875
+    },
+    {
+        "municipality": "Liminka",
+        "population": 9740,
+        "DL avg": 44631.454545454544,
+        "DL var": 1172485267.0661154,
+        "UL avg": 26669.727272727272,
+        "UL var": 624167765.1074381
+    },
+    {
+        "municipality": "Tarvasjoki",
+        "population": 1968,
+        "DL avg": 43096.357142857145,
+        "DL var": 1117505561.6581633,
+        "UL avg": 30414.5,
+        "UL var": 1227319311.107143
+    },
+    {
+        "municipality": "Kauhajoki",
+        "population": 14007,
+        "DL avg": 35285.91891891892,
+        "DL var": 1069740650.4528854,
+        "UL avg": 34418.54054054054,
+        "UL var": 3682309780.9510593
+    },
+    {
+        "municipality": "Nousiainen",
+        "population": 4844,
+        "DL avg": 33888.605769230766,
+        "DL var": 1198843165.8926592,
+        "UL avg": 11420.778846153846,
+        "UL var": 349185155.82609105
+    },
+    {
+        "municipality": "Sodankylä",
+        "population": 8820,
+        "DL avg": 54624.37037037037,
+        "DL var": 1561526195.5665295,
+        "UL avg": 23506.11111111111,
+        "UL var": 1274967403.5061724
+    },
+    {
+        "municipality": "Eura",
+        "population": 12314,
+        "DL avg": 23212.176470588234,
+        "DL var": 554407059.9100345,
+        "UL avg": 14067.764705882353,
+        "UL var": 357388428.0622838
+    },
+    {
+        "municipality": "Nurmijärvi",
+        "population": 41577,
+        "DL avg": 26380.29411764706,
+        "DL var": 626670583.6429064,
+        "UL avg": 11443.119047619048,
+        "UL var": 198251579.20011336
+    },
+    {
+        "municipality": "Imatra",
+        "population": 28037,
+        "DL avg": 32541.364864864863,
+        "DL var": 1570741722.961468,
+        "UL avg": 7197.445945945946,
+        "UL var": 75115044.6795106
+    },
+    {
+        "municipality": "Kuusankoski",
+        "population": 0,
+        "DL avg": 25112.472972972973,
+        "DL var": 537239182.4925128,
+        "UL avg": 14542.616438356165,
+        "UL var": 568052901.4419216
+    },
+    {
+        "municipality": "Hollola",
+        "population": 21892,
+        "DL avg": 26912.14814814815,
+        "DL var": 577563221.0336077,
+        "UL avg": 10956.24074074074,
+        "UL var": 113316349.60871056
+    },
+    {
+        "municipality": "Kauhava",
+        "population": 16908,
+        "DL avg": 27731.169811320753,
+        "DL var": 1590602078.1032398,
+        "UL avg": 4633.8490566037735,
+        "UL var": 38093117.713065155
+    },
+    {
+        "municipality": "Joutseno",
+        "population": 0,
+        "DL avg": 32106.619047619046,
+        "DL var": 938859219.3469386,
+        "UL avg": 5886.238095238095,
+        "UL var": 238957334.5623583
+    },
+    {
+        "municipality": "Haukivuori",
+        "population": 0,
+        "DL avg": 47225.392857142855,
+        "DL var": 3232159469.345664,
+        "UL avg": 6354.946428571428,
+        "UL var": 70436868.51498725
+    },
+    {
+        "municipality": "Köyliö",
+        "population": 2647,
+        "DL avg": 7264.083333333333,
+        "DL var": 16985766.576388888,
+        "UL avg": 7285.0,
+        "UL var": 61234870.666666664
+    },
+    {
+        "municipality": "Lieto",
+        "population": 17241,
+        "DL avg": 30119.790598290598,
+        "DL var": 941721261.362134,
+        "UL avg": 13474.689655172413,
+        "UL var": 1173336151.2743757
+    },
+    {
+        "municipality": "Savitaipale",
+        "population": 3667,
+        "DL avg": 43975.92307692308,
+        "DL var": 1011063642.071006,
+        "UL avg": 40195.46153846154,
+        "UL var": 744315115.0177515
+    },
+    {
+        "municipality": "Pertteli",
+        "population": 0,
+        "DL avg": 57840.807692307695,
+        "DL var": 3188670158.9245563,
+        "UL avg": 25078.115384615383,
+        "UL var": 378913179.4866864
+    },
+    {
+        "municipality": "Pertunmaa",
+        "population": 1832,
+        "DL avg": 29817.5,
+        "DL var": 1271683736.65,
+        "UL avg": 37209.9,
+        "UL var": 931493763.89
+    },
+    {
+        "municipality": "Äänekoski",
+        "population": 19909,
+        "DL avg": 33001.57142857143,
+        "DL var": 414468396.24489796,
+        "UL avg": 20475.428571428572,
+        "UL var": 339871703.67346936
+    },
+    {
+        "municipality": "Nivala",
+        "population": 10945,
+        "DL avg": 27722.254237288136,
+        "DL var": 1075672408.4268887,
+        "UL avg": 6914.169491525424,
+        "UL var": 112779179.8017811
+    },
+    {
+        "municipality": "Somero",
+        "population": 9173,
+        "DL avg": 23848.916666666668,
+        "DL var": 168681221.24305555,
+        "UL avg": 7842.541666666667,
+        "UL var": 73045821.7482639
+    },
+    {
+        "municipality": "Luvia",
+        "population": 3340,
+        "DL avg": 61230.333333333336,
+        "DL var": 1328094163.8888886,
+        "UL avg": 9113.0,
+        "UL var": 13909572.333333334
+    },
+    {
+        "municipality": "Laitila",
+        "population": 8542,
+        "DL avg": 22758.083333333332,
+        "DL var": 542357415.5763888,
+        "UL avg": 8207.270833333334,
+        "UL var": 71266974.23914932
+    },
+    {
+        "municipality": "Hämeenkyrö",
+        "population": 10610,
+        "DL avg": 25612.565217391304,
+        "DL var": 357994480.2457466,
+        "UL avg": 8551.260869565218,
+        "UL var": 90797194.71455577
+    },
+    {
+        "municipality": "Askola",
+        "population": 5064,
+        "DL avg": 43079.666666666664,
+        "DL var": 2927865473.259259,
+        "UL avg": 8556.666666666666,
+        "UL var": 56985827.185185194
+    },
+    {
+        "municipality": "Uurainen",
+        "population": 3611,
+        "DL avg": 20666.535714285714,
+        "DL var": 70814842.17729591,
+        "UL avg": 6094.357142857143,
+        "UL var": 72508472.15816326
+    },
+    {
+        "municipality": "Vammala",
+        "population": 0,
+        "DL avg": 25432.363636363636,
+        "DL var": 691535746.6859505,
+        "UL avg": 13629.863636363636,
+        "UL var": 167907236.84504133
+    },
+    {
+        "municipality": "Leppävirta",
+        "population": 10015,
+        "DL avg": 27925.083333333332,
+        "DL var": 651797360.4097222,
+        "UL avg": 13176.5,
+        "UL var": 1082519471.75
+    },
+    {
+        "municipality": "Yli-Ii",
+        "population": 0,
+        "DL avg": 48686.5,
+        "DL var": 1748995002.0833333,
+        "UL avg": 52945.333333333336,
+        "UL var": 1694765411.2222223
+    },
+    {
+        "municipality": "Jurva",
+        "population": 0,
+        "DL avg": 8325.0,
+        "DL var": 0.0,
+        "UL avg": 656.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Kiuruvesi",
+        "population": 8752,
+        "DL avg": 34173.52380952381,
+        "DL var": 1251068480.9160998,
+        "UL avg": 29365.333333333332,
+        "UL var": 1694162873.4603176
+    },
+    {
+        "municipality": "Humppila",
+        "population": 2440,
+        "DL avg": 56094.62962962963,
+        "DL var": 1095709788.4554183,
+        "UL avg": 22589.333333333332,
+        "UL var": 191825595.85185185
+    },
+    {
+        "municipality": "Suonenjoki",
+        "population": 7419,
+        "DL avg": 110628.25,
+        "DL var": 6500142682.4375,
+        "UL avg": 34966.5625,
+        "UL var": 448247516.87109375
+    },
+    {
+        "municipality": "Masku",
+        "population": 9767,
+        "DL avg": 31133.80681818182,
+        "DL var": 1108971209.3717718,
+        "UL avg": 10613.862857142858,
+        "UL var": 115643743.35262041
+    },
+    {
+        "municipality": "Vahto",
+        "population": 0,
+        "DL avg": 40359.17543859649,
+        "DL var": 1574102021.3376424,
+        "UL avg": 18896.087719298244,
+        "UL var": 481941340.781779
+    },
+    {
+        "municipality": "Orivesi",
+        "population": 9579,
+        "DL avg": 30637.309523809523,
+        "DL var": 1077575143.9280045,
+        "UL avg": 8607.404761904761,
+        "UL var": 202980537.0980726
+    },
+    {
+        "municipality": "Nummi-Pusula",
+        "population": 0,
+        "DL avg": 7485.5,
+        "DL var": 372710.25,
+        "UL avg": 630.0,
+        "UL var": 9216.0
+    },
+    {
+        "municipality": "Sysmä",
+        "population": 4097,
+        "DL avg": 24678.666666666668,
+        "DL var": 612542945.4444443,
+        "UL avg": 7955.888888888889,
+        "UL var": 63306296.654320985
+    },
+    {
+        "municipality": "Simo",
+        "population": 3296,
+        "DL avg": 40133.416666666664,
+        "DL var": 689892725.5763888,
+        "UL avg": 10902.583333333334,
+        "UL var": 193916093.90972218
+    },
+    {
+        "municipality": "Rautavaara",
+        "population": 1768,
+        "DL avg": 52974.230769230766,
+        "DL var": 3852812371.946746,
+        "UL avg": 35902.38461538462,
+        "UL var": 1209735096.005917
+    },
+    {
+        "municipality": "Siilinjärvi",
+        "population": 21668,
+        "DL avg": 37540.48,
+        "DL var": 656488725.0496,
+        "UL avg": 10177.04,
+        "UL var": 537598315.7983999
+    },
+    {
+        "municipality": "Maaninka",
+        "population": 3746,
+        "DL avg": 40067.7,
+        "DL var": 847104908.61,
+        "UL avg": 1689.9,
+        "UL var": 1452127.29
+    },
+    {
+        "municipality": "Kuhmo",
+        "population": 8950,
+        "DL avg": 57198.055555555555,
+        "DL var": 1291306127.941358,
+        "UL avg": 56876.88888888889,
+        "UL var": 1351069114.876543
+    },
+    {
+        "municipality": "Karijoki",
+        "population": 1409,
+        "DL avg": 123505.0,
+        "DL var": 0.0,
+        "UL avg": 18997.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Kontiolahti",
+        "population": 14681,
+        "DL avg": 43039.142857142855,
+        "DL var": 876758216.4081633,
+        "UL avg": 9569.142857142857,
+        "UL var": 871266.1224489795
+    },
+    {
+        "municipality": "Valtimo",
+        "population": 2362,
+        "DL avg": 22525.214285714286,
+        "DL var": 84163485.88265307,
+        "UL avg": 22402.714285714286,
+        "UL var": 99102304.34693877
+    },
+    {
+        "municipality": "Siikajoki",
+        "population": 5526,
+        "DL avg": 39093.04347826087,
+        "DL var": 205812872.30245748,
+        "UL avg": 7535.95652173913,
+        "UL var": 14066242.65028355
+    },
+    {
+        "municipality": "Outokumpu",
+        "population": 7172,
+        "DL avg": 21880.78787878788,
+        "DL var": 494391628.77318645,
+        "UL avg": 3844.151515151515,
+        "UL var": 16066868.795224978
+    },
+    {
+        "municipality": "Jämsä",
+        "population": 21808,
+        "DL avg": 24199.458333333332,
+        "DL var": 257927556.99826393,
+        "UL avg": 16913.083333333332,
+        "UL var": 218288921.15972224
+    },
+    {
+        "municipality": "Vesanto",
+        "population": 2244,
+        "DL avg": 36058.6,
+        "DL var": 611561611.04,
+        "UL avg": 23495.9,
+        "UL var": 129713089.09
+    },
+    {
+        "municipality": "Oulainen",
+        "population": 7725,
+        "DL avg": 27940.958333333332,
+        "DL var": 720565526.873264,
+        "UL avg": 15211.958333333334,
+        "UL var": 485917241.7899306
+    },
+    {
+        "municipality": "Pohja",
+        "population": 0,
+        "DL avg": 30573.0,
+        "DL var": 210108140.72727272,
+        "UL avg": 10177.636363636364,
+        "UL var": 27470822.231404956
+    },
+    {
+        "municipality": "Kuusamo",
+        "population": 15823,
+        "DL avg": 36122.3125,
+        "DL var": 521066344.08984375,
+        "UL avg": 22189.625,
+        "UL var": 278508225.984375
+    },
+    {
+        "municipality": "Sotkamo",
+        "population": 10598,
+        "DL avg": 52518.8,
+        "DL var": 2450140623.7599998,
+        "UL avg": 33027.6,
+        "UL var": 881643203.4399999
+    },
+    {
+        "municipality": "Lavia",
+        "population": 1903,
+        "DL avg": 38673.8275862069,
+        "DL var": 284448961.3840666,
+        "UL avg": 7597.103448275862,
+        "UL var": 7302733.196195006
+    },
+    {
+        "municipality": "Hauho",
+        "population": 0,
+        "DL avg": 21285.91379310345,
+        "DL var": 402559674.4236029,
+        "UL avg": 11934.362068965518,
+        "UL var": 106382700.5068371
+    },
+    {
+        "municipality": "Joutsa",
+        "population": 4782,
+        "DL avg": 34605.5,
+        "DL var": 106657256.25,
+        "UL avg": 13582.5,
+        "UL var": 57191406.25
+    },
+    {
+        "municipality": "Toholampi",
+        "population": 3354,
+        "DL avg": 54221.307692307695,
+        "DL var": 1598497219.2899408,
+        "UL avg": 19274.23076923077,
+        "UL var": 528705586.48520714
+    },
+    {
+        "municipality": "Pyhäjärvi",
+        "population": 5562,
+        "DL avg": 37474.444444444445,
+        "DL var": 993976056.2469137,
+        "UL avg": 36535.22222222222,
+        "UL var": 541778752.3950617
+    },
+    {
+        "municipality": "Kärsämäki",
+        "population": 2696,
+        "DL avg": 22471.848484848484,
+        "DL var": 327173379.28007346,
+        "UL avg": 20352.363636363636,
+        "UL var": 578007363.5041323
+    },
+    {
+        "municipality": "Kalajoki",
+        "population": 12632,
+        "DL avg": 18328.7,
+        "DL var": 175676113.81000003,
+        "UL avg": 2940.0,
+        "UL var": 12593133.6
+    },
+    {
+        "municipality": "Ylistaro",
+        "population": 0,
+        "DL avg": 22165.55,
+        "DL var": 581045559.9474999,
+        "UL avg": 2138.95,
+        "UL var": 7573102.647499999
+    },
+    {
+        "municipality": "Ilmajoki",
+        "population": 12181,
+        "DL avg": 23477.558823529413,
+        "DL var": 723678932.6583045,
+        "UL avg": 16261.235294117647,
+        "UL var": 904535250.0622836
+    },
+    {
+        "municipality": "Joroinen",
+        "population": 5178,
+        "DL avg": 6648.777777777777,
+        "DL var": 68759681.95061728,
+        "UL avg": 3558.5555555555557,
+        "UL var": 34785205.58024692
+    },
+    {
+        "municipality": "Vihanti",
+        "population": 0,
+        "DL avg": 12810.733333333334,
+        "DL var": 63941796.06222222,
+        "UL avg": 7367.133333333333,
+        "UL var": 165296812.6488889
+    },
+    {
+        "municipality": "Saari",
+        "population": 0,
+        "DL avg": 48038.8125,
+        "DL var": 2276847516.0273438,
+        "UL avg": 10947.5,
+        "UL var": 71638571.25
+    },
+    {
+        "municipality": "Kokemäki",
+        "population": 7702,
+        "DL avg": 50071.77777777778,
+        "DL var": 4591983746.3950615,
+        "UL avg": 24632.444444444445,
+        "UL var": 1144791225.691358
+    },
+    {
+        "municipality": "Kuhmoinen",
+        "population": 2374,
+        "DL avg": 36177.5,
+        "DL var": 55251008.25,
+        "UL avg": 10555.5,
+        "UL var": 3614215.25
+    },
+    {
+        "municipality": "Loviisa",
+        "population": 15480,
+        "DL avg": 37575.52,
+        "DL var": 1340056333.8496003,
+        "UL avg": 11748.32,
+        "UL var": 39908523.257599995
+    },
+    {
+        "municipality": "Juuka",
+        "population": 5140,
+        "DL avg": 11128.666666666666,
+        "DL var": 60449914.88888889,
+        "UL avg": 5647.0,
+        "UL var": 32082002.666666668
+    },
+    {
+        "municipality": "Taivalkoski",
+        "population": 4231,
+        "DL avg": 151689.0,
+        "DL var": 1645315914.6666667,
+        "UL avg": 401745.3333333333,
+        "UL var": 112032390202.88887
+    },
+    {
+        "municipality": "Oulunsalo",
+        "population": 0,
+        "DL avg": 28286.0,
+        "DL var": 999668310.5,
+        "UL avg": 63096.225,
+        "UL var": 17632274686.024376
+    },
+    {
+        "municipality": "Kannus",
+        "population": 5643,
+        "DL avg": 17487.333333333332,
+        "DL var": 180962070.8888889,
+        "UL avg": 2036.095238095238,
+        "UL var": 9101883.609977324
+    },
+    {
+        "municipality": "Aura",
+        "population": 3982,
+        "DL avg": 27335.24770642202,
+        "DL var": 540918193.36066,
+        "UL avg": 6654.616822429906,
+        "UL var": 48648301.99336185
+    },
+    {
+        "municipality": "Kuusjoki",
+        "population": 0,
+        "DL avg": 45687.59459459459,
+        "DL var": 1052175473.051863,
+        "UL avg": 29312.675675675677,
+        "UL var": 398505468.219138
+    },
+    {
+        "municipality": "Vähäkyrö",
+        "population": 0,
+        "DL avg": 105183.2,
+        "DL var": 27590067094.159996,
+        "UL avg": 127207.0,
+        "UL var": 61837015040.8
+    },
+    {
+        "municipality": "Kangasala",
+        "population": 30471,
+        "DL avg": 27837.47204968944,
+        "DL var": 461231420.8330697,
+        "UL avg": 15240.633540372672,
+        "UL var": 244480854.7539061
+    },
+    {
+        "municipality": "Jokioinen",
+        "population": 5516,
+        "DL avg": 37835.84444444445,
+        "DL var": 1390220480.4424691,
+        "UL avg": 17459.17777777778,
+        "UL var": 346858606.3683951
+    },
+    {
+        "municipality": "Lohja",
+        "population": 47624,
+        "DL avg": 54938.0,
+        "DL var": 3882567780.3846154,
+        "UL avg": 12990.134615384615,
+        "UL var": 211079430.6549556
+    },
+    {
+        "municipality": "Halikko",
+        "population": 0,
+        "DL avg": 28879.222222222223,
+        "DL var": 724882209.9506173,
+        "UL avg": 18613.444444444445,
+        "UL var": 219336252.24691355
+    },
+    {
+        "municipality": "Parkano",
+        "population": 6808,
+        "DL avg": 41509.86363636364,
+        "DL var": 862388719.2995869,
+        "UL avg": 6970.0,
+        "UL var": 28436030.454545453
+    },
+    {
+        "municipality": "Sulkava",
+        "population": 2789,
+        "DL avg": 13974.307692307691,
+        "DL var": 52521303.75147928,
+        "UL avg": 1937.6153846153845,
+        "UL var": 1590155.621301775
+    },
+    {
+        "municipality": "Heinävesi",
+        "population": 3638,
+        "DL avg": 104851.0,
+        "DL var": 0.0,
+        "UL avg": 93436.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Sumiainen",
+        "population": 0,
+        "DL avg": 27953.0,
+        "DL var": 0.0,
+        "UL avg": 18434.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Noormarkku",
+        "population": 0,
+        "DL avg": 18573.5,
+        "DL var": 43224050.25,
+        "UL avg": 6854.5,
+        "UL var": 6004950.25
+    },
+    {
+        "municipality": "Padasjoki",
+        "population": 3197,
+        "DL avg": 110798.75,
+        "DL var": 2890742831.4375,
+        "UL avg": 16698.75,
+        "UL var": 53295130.4375
+    },
+    {
+        "municipality": "Ruovesi",
+        "population": 4689,
+        "DL avg": 28394.91304347826,
+        "DL var": 421728921.2098301,
+        "UL avg": 10847.173913043478,
+        "UL var": 376861817.44801515
+    },
+    {
+        "municipality": "Elimäki",
+        "population": 0,
+        "DL avg": 22005.508196721312,
+        "DL var": 1178209416.0204246,
+        "UL avg": 16565.0,
+        "UL var": 238061737.7
+    },
+    {
+        "municipality": "Kinnula",
+        "population": 1766,
+        "DL avg": 68596.66666666667,
+        "DL var": 602714062.888889,
+        "UL avg": 6704.0,
+        "UL var": 2487412.6666666665
+    },
+    {
+        "municipality": "Tuusniemi",
+        "population": 2750,
+        "DL avg": 32262.0,
+        "DL var": 816525700.6666666,
+        "UL avg": 3911.0,
+        "UL var": 20228066.666666668
+    },
+    {
+        "municipality": "Punkalaidun",
+        "population": 3117,
+        "DL avg": 22449.125,
+        "DL var": 459938644.359375,
+        "UL avg": 19907.375,
+        "UL var": 327736946.484375
+    },
+    {
+        "municipality": "Laukaa",
+        "population": 18709,
+        "DL avg": 23040.708333333332,
+        "DL var": 297059492.20659727,
+        "UL avg": 6530.75,
+        "UL var": 86668251.60416667
+    },
+    {
+        "municipality": "Kuru",
+        "population": 0,
+        "DL avg": 25220.0,
+        "DL var": 0.0,
+        "UL avg": 25587.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Pornainen",
+        "population": 5148,
+        "DL avg": 21338.298076923078,
+        "DL var": 308287293.7669194,
+        "UL avg": 10185.0,
+        "UL var": 112936962.11538461
+    },
+    {
+        "municipality": "Naantali",
+        "population": 18871,
+        "DL avg": 32425.056,
+        "DL var": 1844040569.8128638,
+        "UL avg": 9183.872,
+        "UL var": 107628418.76761602
+    },
+    {
+        "municipality": "Loimaa",
+        "population": 16607,
+        "DL avg": 26346.0,
+        "DL var": 671176163.7142857,
+        "UL avg": 12150.102040816326,
+        "UL var": 342942410.94877136
+    },
+    {
+        "municipality": "Merimasku",
+        "population": 0,
+        "DL avg": 28743.8,
+        "DL var": 94032420.56,
+        "UL avg": 9802.4,
+        "UL var": 238751.03999999998
+    },
+    {
+        "municipality": "Suolahti",
+        "population": 0,
+        "DL avg": 25024.222222222223,
+        "DL var": 424865048.1728395,
+        "UL avg": 7205.666666666667,
+        "UL var": 43597182.666666664
+    },
+    {
+        "municipality": "Oripää",
+        "population": 1417,
+        "DL avg": 52995.0,
+        "DL var": 0.0,
+        "UL avg": 17355.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Pihtipudas",
+        "population": 4261,
+        "DL avg": 57986.2,
+        "DL var": 1306831794.56,
+        "UL avg": 27828.8,
+        "UL var": 322904346.56
+    },
+    {
+        "municipality": "Sastamala",
+        "population": 25372,
+        "DL avg": 23414.75,
+        "DL var": 211425303.6875,
+        "UL avg": 11504.5,
+        "UL var": 17901382.25
+    },
+    {
+        "municipality": "Karstula",
+        "population": 4286,
+        "DL avg": 65232.375,
+        "DL var": 1413911666.234375,
+        "UL avg": 52076.625,
+        "UL var": 889548894.984375
+    },
+    {
+        "municipality": "Sammatti",
+        "population": 0,
+        "DL avg": 20282.727272727272,
+        "DL var": 110502345.107438,
+        "UL avg": 10604.272727272728,
+        "UL var": 145635365.28925622
+    },
+    {
+        "municipality": "Viljakkala",
+        "population": 0,
+        "DL avg": 33006.28571428572,
+        "DL var": 173099248.77551016,
+        "UL avg": 12485.57142857143,
+        "UL var": 76888467.38775511
+    },
+    {
+        "municipality": "Suomussalmi",
+        "population": 8486,
+        "DL avg": 49846.833333333336,
+        "DL var": 400145177.1388889,
+        "UL avg": 2243.8333333333335,
+        "UL var": 2149919.138888889
+    },
+    {
+        "municipality": "Sonkajärvi",
+        "population": 4336,
+        "DL avg": 83087.8,
+        "DL var": 9509707833.36,
+        "UL avg": 30116.8,
+        "UL var": 1578424480.56
+    },
+    {
+        "municipality": "Pudasjärvi",
+        "population": 8399,
+        "DL avg": 70662.89655172414,
+        "DL var": 1532385280.8513677,
+        "UL avg": 81111.96551724138,
+        "UL var": 7473297140.378121
+    },
+    {
+        "municipality": "Kiihtelysvaara",
+        "population": 0,
+        "DL avg": 57122.5,
+        "DL var": 65359140.25,
+        "UL avg": 8606.5,
+        "UL var": 564752.25
+    },
+    {
+        "municipality": "Lohtaja",
+        "population": 0,
+        "DL avg": 10577.0,
+        "DL var": 0.0,
+        "UL avg": 800.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Ruukki",
+        "population": 0,
+        "DL avg": 19363.0,
+        "DL var": 0.0,
+        "UL avg": 789.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Juupajoki",
+        "population": 2033,
+        "DL avg": 22498.4,
+        "DL var": 440335763.36,
+        "UL avg": 4484.12,
+        "UL var": 34777071.78560001
+    },
+    {
+        "municipality": "Kitee",
+        "population": 10986,
+        "DL avg": 14636.25,
+        "DL var": 38824595.6875,
+        "UL avg": 6418.5,
+        "UL var": 14032998.25
+    },
+    {
+        "municipality": "Perho",
+        "population": 2893,
+        "DL avg": 109293.0,
+        "DL var": 0.0,
+        "UL avg": 93125.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Parikkala",
+        "population": 5373,
+        "DL avg": 211104.58333333334,
+        "DL var": 39096118190.07638,
+        "UL avg": 207636.08333333334,
+        "UL var": 38317758557.576385
+    },
+    {
+        "municipality": "Kaustinen",
+        "population": 4283,
+        "DL avg": 52719.0,
+        "DL var": 784857414.5,
+        "UL avg": 46143.75,
+        "UL var": 1264708761.1875
+    },
+    {
+        "municipality": "Myrskylä",
+        "population": 1985,
+        "DL avg": 43881.75,
+        "DL var": 16492096.1875,
+        "UL avg": 9927.0,
+        "UL var": 93056136.5
+    },
+    {
+        "municipality": "Keminmaa",
+        "population": 8469,
+        "DL avg": 28616.882352941175,
+        "DL var": 452582235.1626297,
+        "UL avg": 12149.6875,
+        "UL var": 93235284.83984375
+    },
+    {
+        "municipality": "Kuortane",
+        "population": 3727,
+        "DL avg": 61619.0,
+        "DL var": 5550868094.0,
+        "UL avg": 41065.333333333336,
+        "UL var": 2559296060.222222
+    },
+    {
+        "municipality": "Alastaro",
+        "population": 0,
+        "DL avg": 11746.666666666666,
+        "DL var": 488642.88888888893,
+        "UL avg": 7060.333333333333,
+        "UL var": 16724330.888888888
+    },
+    {
+        "municipality": "Enonkoski",
+        "population": 1503,
+        "DL avg": 48189.0,
+        "DL var": 0.0,
+        "UL avg": 7586.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Isokyrö",
+        "population": 4842,
+        "DL avg": 39342.25,
+        "DL var": 208247715.6875,
+        "UL avg": 21689.25,
+        "UL var": 206371067.6875
+    },
+    {
+        "municipality": "Polvijärvi",
+        "population": 4609,
+        "DL avg": 50361.166666666664,
+        "DL var": 747240724.4722223,
+        "UL avg": 4624.0,
+        "UL var": 14373698.333333334
+    },
+    {
+        "municipality": "Kittilä",
+        "population": 6470,
+        "DL avg": 98029.0,
+        "DL var": 125305636.0,
+        "UL avg": 179096.0,
+        "UL var": 250145856.0
+    },
+    {
+        "municipality": "Kannonkoski",
+        "population": 1475,
+        "DL avg": 26168.666666666668,
+        "DL var": 315001222.88888884,
+        "UL avg": 6419.857142857143,
+        "UL var": 15666305.646258501
+    },
+    {
+        "municipality": "Multia",
+        "population": 1763,
+        "DL avg": 37028.625,
+        "DL var": 694031703.734375,
+        "UL avg": 18509.5,
+        "UL var": 110815414.0
+    },
+    {
+        "municipality": "Korppoo",
+        "population": 0,
+        "DL avg": 18324.0,
+        "DL var": 166352116.66666666,
+        "UL avg": 5171.0,
+        "UL var": 4836074.0
+    },
+    {
+        "municipality": "Utajärvi",
+        "population": 2907,
+        "DL avg": 68362.0,
+        "DL var": 477538389.5,
+        "UL avg": 53906.25,
+        "UL var": 649146499.1875
+    },
+    {
+        "municipality": "Harjavalta",
+        "population": 7366,
+        "DL avg": 40141.818181818184,
+        "DL var": 1001477368.694215,
+        "UL avg": 23692.909090909092,
+        "UL var": 1165142850.264463
+    },
+    {
+        "municipality": "Kälviä",
+        "population": 0,
+        "DL avg": 45811.125,
+        "DL var": 4970278569.859375,
+        "UL avg": 16528.875,
+        "UL var": 252512906.859375
+    },
+    {
+        "municipality": "Ulvila",
+        "population": 13322,
+        "DL avg": 29002.666666666668,
+        "DL var": 230567994.88888887,
+        "UL avg": 10387.5,
+        "UL var": 136068836.91666666
+    },
+    {
+        "municipality": "Sahalahti",
+        "population": 0,
+        "DL avg": 7600.333333333333,
+        "DL var": 18599523.88888889,
+        "UL avg": 2770.6666666666665,
+        "UL var": 2564267.5555555555
+    },
+    {
+        "municipality": "Muurla",
+        "population": 0,
+        "DL avg": 11806.0,
+        "DL var": 0.0,
+        "UL avg": 552.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Karvia",
+        "population": 2491,
+        "DL avg": 22790.125,
+        "DL var": 396770741.109375,
+        "UL avg": 11942.375,
+        "UL var": 142135467.484375
+    },
+    {
+        "municipality": "Eno",
+        "population": 0,
+        "DL avg": 14062.57142857143,
+        "DL var": 6270487.3877551025,
+        "UL avg": 806.8571428571429,
+        "UL var": 8646.69387755102
+    },
+    {
+        "municipality": "Kodisjoki",
+        "population": 0,
+        "DL avg": 19375.8,
+        "DL var": 161432163.76,
+        "UL avg": 7847.0,
+        "UL var": 2710668.0
+    },
+    {
+        "municipality": "Kiikoinen",
+        "population": 0,
+        "DL avg": 17179.0,
+        "DL var": 111534721.0,
+        "UL avg": 7562.5,
+        "UL var": 4062240.25
+    },
+    {
+        "municipality": "Juva",
+        "population": 6616,
+        "DL avg": 8365.0,
+        "DL var": 777924.0,
+        "UL avg": 15448.5,
+        "UL var": 75246950.25
+    },
+    {
+        "municipality": "Konnevesi",
+        "population": 2831,
+        "DL avg": 22327.125,
+        "DL var": 718615445.109375,
+        "UL avg": 21327.125,
+        "UL var": 940252681.609375
+    },
+    {
+        "municipality": "Kerimäki",
+        "population": 0,
+        "DL avg": 7026.833333333333,
+        "DL var": 134.4722222222222,
+        "UL avg": 879.5,
+        "UL var": 214.91666666666666
+    },
+    {
+        "municipality": "Soini",
+        "population": 2273,
+        "DL avg": 91582.0,
+        "DL var": 1254400.0,
+        "UL avg": 43833.5,
+        "UL var": 105950.25
+    },
+    {
+        "municipality": "Virrat",
+        "population": 7157,
+        "DL avg": 34144.529411764706,
+        "DL var": 395419045.7785467,
+        "UL avg": 8308.70588235294,
+        "UL var": 8785899.031141868
+    },
+    {
+        "municipality": "Lapinlahti",
+        "population": 10093,
+        "DL avg": 39177.846153846156,
+        "DL var": 992992177.5147928,
+        "UL avg": 2453.6923076923076,
+        "UL var": 5742439.597633136
+    },
+    {
+        "municipality": "Jäppilä",
+        "population": 0,
+        "DL avg": 2966.3333333333335,
+        "DL var": 12189189.555555554,
+        "UL avg": 613.3333333333334,
+        "UL var": 56256.88888888888
+    },
+    {
+        "municipality": "Hailuoto",
+        "population": 997,
+        "DL avg": 56938.0,
+        "DL var": 932007188.5,
+        "UL avg": 6522.875,
+        "UL var": 92450930.109375
+    },
+    {
+        "municipality": "Lemu",
+        "population": 0,
+        "DL avg": 10255.0,
+        "DL var": 0.0,
+        "UL avg": 1800.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Mietoinen",
+        "population": 0,
+        "DL avg": 90736.75,
+        "DL var": 1893290.6875,
+        "UL avg": 10056.5,
+        "UL var": 17556.75
+    },
+    {
+        "municipality": "Kuhmalahti",
+        "population": 0,
+        "DL avg": 10742.0,
+        "DL var": 43983424.0,
+        "UL avg": 5898.0,
+        "UL var": 11437924.0
+    },
+    {
+        "municipality": "Paltamo",
+        "population": 3564,
+        "DL avg": 36407.0,
+        "DL var": 0.0,
+        "UL avg": 1604.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Kullaa",
+        "population": 0,
+        "DL avg": 29863.166666666668,
+        "DL var": 685216773.138889,
+        "UL avg": 17934.833333333332,
+        "UL var": 267323287.13888887
+    },
+    {
+        "municipality": "Karinainen",
+        "population": 0,
+        "DL avg": 34070.666666666664,
+        "DL var": 99984440.22222222,
+        "UL avg": 15032.333333333334,
+        "UL var": 187564264.2222222
+    },
+    {
+        "municipality": "Toivakka",
+        "population": 2472,
+        "DL avg": 45915.0,
+        "DL var": 0.0,
+        "UL avg": 62215.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Kesälahti",
+        "population": 0,
+        "DL avg": 15404.666666666666,
+        "DL var": 89285688.55555557,
+        "UL avg": 9960.5,
+        "UL var": 71134513.91666667
+    },
+    {
+        "municipality": "Urjala",
+        "population": 4984,
+        "DL avg": 13798.0,
+        "DL var": 134629609.0,
+        "UL avg": 28247.0,
+        "UL var": 190096.0
+    },
+    {
+        "municipality": "Tervola",
+        "population": 3239,
+        "DL avg": 20553.0,
+        "DL var": 15721225.0,
+        "UL avg": 34080.0,
+        "UL var": 3736489.0
+    },
+    {
+        "municipality": "Lumparland",
+        "population": 418,
+        "DL avg": 53137.0,
+        "DL var": 0.0,
+        "UL avg": 43808.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Piippola",
+        "population": 0,
+        "DL avg": 64214.5,
+        "DL var": 436371210.25,
+        "UL avg": 40416.0,
+        "UL var": 854977600.0
+    },
+    {
+        "municipality": "Kisko",
+        "population": 0,
+        "DL avg": 3222.0,
+        "DL var": 0.0,
+        "UL avg": 30866.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Kyyjärvi",
+        "population": 1399,
+        "DL avg": 45344.0,
+        "DL var": 0.0,
+        "UL avg": 20487.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Hanko",
+        "population": 9021,
+        "DL avg": 20107.4,
+        "DL var": 482900446.64000005,
+        "UL avg": 24561.2,
+        "UL var": 923765250.1600002
+    },
+    {
+        "municipality": "Nakkila",
+        "population": 5651,
+        "DL avg": 29105.0,
+        "DL var": 547840836.0,
+        "UL avg": 11325.5,
+        "UL var": 54516072.25
+    },
+    {
+        "municipality": "Lestijärvi",
+        "population": 817,
+        "DL avg": 94698.0,
+        "DL var": 0.0,
+        "UL avg": 94490.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Lumijoki",
+        "population": 2074,
+        "DL avg": 97197.0,
+        "DL var": 0.0,
+        "UL avg": 9949.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Veteli",
+        "population": 3342,
+        "DL avg": 97637.0,
+        "DL var": 0.0,
+        "UL avg": 6505.0,
+        "UL var": 0.0
+    },
+    {
+        "municipality": "Lapinjärvi",
+        "population": 2779,
+        "DL avg": 18377.5,
+        "DL var": 1391220.25,
+        "UL avg": 20168.0,
+        "UL var": 1406596.0
+    },
+    {
+        "municipality": "Viitasaari",
+        "population": 6780,
+        "DL avg": 6359.0,
+        "DL var": 0.0,
+        "UL avg": 7214.0,
+        "UL var": 0.0
+    }
+]

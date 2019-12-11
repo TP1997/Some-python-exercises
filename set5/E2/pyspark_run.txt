@@ -1,0 +1,3 @@
+PYSPARK_PYTHON=python3 SPARK_HOME=~/.local/lib/python3.6/site-packages/pyspark pyspark < sparktweets.py
+
+
